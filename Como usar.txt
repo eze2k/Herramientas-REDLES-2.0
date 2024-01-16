@@ -1,0 +1,13 @@
+1 - Instalar python 3.8
+2 - Instalar gpg4win-4.2.0.exe que esta 
+	ubicado en la carpeta "Keys"
+3 - Reiniciar PC
+4 - correr req.py
+5 - Abrir run.py y seleccionar opcion 
+	"9 - Instalacion de llaves SINTyS."
+6 - Usar
+
+Errores:
+Si al instalar la llaves sintys tira algun tipo de error,
+probar abrir run.py/req.py como administrador.
+
